@@ -1,0 +1,11 @@
+{
+    "name": "Monkecoin",
+    "website": "https://monkecoin.com",
+    "description": "Monkecoin - Return to monke, explore our vast meme ecosystem filled with utility! Hop into the Monkeverse!",
+    "explorer": "https://bscscan.com/token/0xFCE692762e907E80A061C01631D15Ba7328eaAaA",
+    "type": "BEP20",
+    "symbol": "MONKE",
+    "decimals": 0,
+    "status": "active",
+    "id": "0xFCE692762e907E80A061C01631D15Ba7328eaAaA"
+  }
